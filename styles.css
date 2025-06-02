@@ -94,7 +94,7 @@ p {
     justify-content: center;
     position: relative;
     background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), 
-                url('https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80') center/cover no-repeat;
+                url('https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-39zEliKql48ky5UGOV00hhaIwaU3jomMlMijot7x2PsJw29y01bkZZlBKEnX2TB83jdU4EmO7F7zPu0j1nPJ8aMtcxGc0selbScgs3c-V9THlkY_UftHDIUvrV8c2tHHQn-rdw=s680-w680-h510') center/cover no-repeat;
     text-align: center;
     overflow: hidden;
 }
@@ -131,7 +131,6 @@ p {
 .ampersand {
     font-style: italic;
     font-weight: 300;
-    color: hsl(var(--accent));
     margin: 0 var(--spacing-xs);
 }
 
@@ -147,7 +146,6 @@ p {
 .hero-date {
     font-size: clamp(1.25rem, 2.5vw, 1.5rem);
     font-weight: 500;
-    color: hsl(var(--accent));
     margin-bottom: var(--spacing-sm);
 }
 
